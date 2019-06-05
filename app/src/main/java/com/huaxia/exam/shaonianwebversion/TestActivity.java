@@ -18,7 +18,11 @@ import android.widget.ProgressBar;
 import android.widget.Toast;
 
 public class TestActivity extends Activity {
+
     //master 2019年6月5日 16:11:12
+
+    //fenzhi1 2019年6月5日 15:47:33
+
     private WebView mWebView;
     private ProgressBar mWebProgres;
 
