@@ -18,7 +18,7 @@ import android.widget.ProgressBar;
 import android.widget.Toast;
 
 public class TestActivity extends Activity {
-
+    //master
     private WebView mWebView;
     private ProgressBar mWebProgres;
 
